@@ -1,0 +1,39 @@
+.Acc {
+  width: 85%;
+}
+.Acc button {
+  font-size: 24px;
+  color: gray;
+  background-color: white;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+}
+.Acc button:focus{
+background-color: white;
+border-color: grey;
+}
+.item {
+  margin-top: 50px;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  
+}
+.linksd {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  padding: 0px;
+}
+.linksd span {
+  display: none;
+}
+.linksd a {
+  padding: 10px;
+  text-decoration: none;
+  color: grey;
+}

@@ -1,0 +1,14 @@
+*{
+margin: 0;
+padding: 0;
+}
+.aco{
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+.chap{
+margin-left: 50px;
+margin-top: 100px;
+}
